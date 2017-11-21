@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">EmpTrack</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="register">Register now</string>
+    <string name="sign">Sign in</string>
+    <string name="sign_emp">Sign in as Employee</string>
+    <string name="sign_adm">Sign in as Admin</string>
+    <string name="nry">Not registered yet ?</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="email">E-Mail</string>
+    <string name="phone">Phone No.</string>
+    <string name="cp">Confirm Password</string>
+    <string name="reg">Register</string>
+    <string name="title_activity_maps_emp">Map</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="som">Show on Map</string>
+    <string name="update">Update Profile</string>
+    <string name="logout">Log Out</string>
+    <string name="title_activity_maps_admin">Map</string>
+    <string name="updateb">Update</string>
+    <string name="changepn">Change Phone number</string>
+    <string name="changeel">Change E-Mail</string>
+    <string name="lb">Leave blank if no update required</string>
+    <string name="refresh">Refresh</string>
+    <string name="chp">Change Password</string>
+</resources>
